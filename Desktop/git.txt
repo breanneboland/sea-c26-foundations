@@ -1,0 +1,5 @@
+A git is an unpleasant person.
+
+Alternatively, Git is a system of maintaining different versions of your work. Thus, if you introduce a bug, you can peel back to the last working version, allowing you to work and experiment without fearing DESTROYING EVERYTHING OMG. Extra features make collaboration easier, because someone other than the original author(s) can clone your project, work on it or make changes to it, and then contribute their changed version to be integrated (or not) into the original. 
+
+Git!
